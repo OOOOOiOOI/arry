@@ -1,12 +1,9 @@
-![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-# LAB | JS Functions & Arrays
 
 <br>
 
 ## Introduction
-
-Manipulating arrays in code is a very common operation. Whether you are creating a total for a shopping cart, grabbing only the first names out of a list of people, or moving a piece on a chessboard, you are probably going to be modifying or manipulating an array in some way.
+การจัดการอาร์เรย์ในโค้ดเป็นการดำเนินการทั่วไป ไม่ว่าคุณจะสร้างยอดรวมสำหรับตะกร้าสินค้า ดึงเฉพาะชื่อจากรายชื่อคน หรือย้ายชิ้นส่วนบนกระดานหมากรุก คุณอาจจะกำลังปรับเปลี่ยนหรือจัดการอาร์เรย์ในทางใดทางหนึ่ง
 
 ## Requirements
 
